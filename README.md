@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**TAbrahamyan/TAbrahamyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://github.com/TAbrahamyan/TAbrahamyan/blob/master/assets/header.png?raw=true)
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![TAbrahamyan's github stats](https://github-readme-stats.vercel.app/api?username=TAbrahamyan&show_icons=true&theme=merko)
+
+  <div>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAbrahamyan&show_icons=true&theme=merko)
+  </div>
+</div>
+
+<img src="https://i.gifer.com/origin/60/6035e4a59e42c51db09d229a0dbf3134_w200.gif" width="22%">
