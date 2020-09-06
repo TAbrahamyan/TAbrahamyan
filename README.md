@@ -12,6 +12,6 @@
   </div>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TAbrahamyan&theme=merko)](https://github.com/TAbrahamyan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TAbrahamyan&theme=gruvbox)](https://github.com/TAbrahamyan/github-profile-trophy)
 
 <img src="https://i.gifer.com/origin/60/6035e4a59e42c51db09d229a0dbf3134_w200.gif" width="22%">
