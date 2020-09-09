@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](https://github.com/TAbrahamyan/TAbrahamyan/blob/master/assets/header.png?raw=true)
+![Header](https://github.com/TAbrahamyan/TAbrahamyan/blob/master/header.png?raw=true)
 
 <div>
 
